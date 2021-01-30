@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    background-image: url(media/main_background.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+#mainContainer{
+    border-radius: 40px;
+}
+
+.container{
+    background-color: white;
+}
+
+.css-shadow-gray{
+    box-shadow:0 0 33px gray;
+}
+
+hr{
+    border-top: 6px dashed rgb(175, 175, 175);
+    width: 85%;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.scroll-area{
+    width: 100%;
+    overflow: scroll;
+}

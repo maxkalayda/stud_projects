@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    background-image: url(media/main_background.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+#mainContainer{
+    border-radius: 40px;
+}
+
+.container{
+    background-color: white;
+}
+
+.css-shadow-gray{
+    box-shadow:0 0 33px gray;
+}
+
+section{
+    background-color: rgba(255, 255, 255, 0);
+}

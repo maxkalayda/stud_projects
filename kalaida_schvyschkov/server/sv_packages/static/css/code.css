@@ -1,0 +1,13 @@
+.container-fluid{
+    background-color: black;
+    background-image: url(media/main_background.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+img{
+    min-width: 300px;
+    max-width: 600px;
+    width: 100%;
+}

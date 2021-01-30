@@ -1,0 +1,11 @@
+.container-fluid{
+    height: 100vh;
+    background-color: #e0c7c0;
+}
+
+#Output{
+    background-color: #ffffff;
+    width: 100%;
+    height: 400px;
+    overflow: scroll;
+}
